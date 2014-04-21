@@ -4,7 +4,6 @@
 PyScanner is a Java-like input scanner.
 
 This is very useful for reading input for programming contests such as ACM ICPC, Topcoder, Google Code Jam, and Facebook Hacker Cup.
-
 # Installation
 
     easy_install PyScanner
@@ -12,7 +11,6 @@ This is very useful for reading input for programming contests such as ACM ICPC,
 And then in your python3 module include:
 
     from scanner import Scanner
-
 # Examples
 
 The following example allows to read a float from stdin:
@@ -66,10 +64,8 @@ sc.next() # red
 sc.next() # blue
 sc.has_next() # False
 ```
-
 # Usage
 TODO: example using the Scanner vs. standard Python way.
-
 # License
 
 [THE BEER-WARE LICENSE](https://tldrlegal.com/license/beerware-license)
