@@ -1,4 +1,3 @@
-
 # Overview
 
 PyScanner is a Java-like input scanner.
@@ -7,7 +6,7 @@ This is very useful for reading input for programming contests such as ACM ICPC,
 
 # Installation
 
-    easy_install PyScanner
+    easy_install3 PyScanner
 
 And then in your python3 module include:
 
